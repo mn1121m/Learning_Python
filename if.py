@@ -1,4 +1,4 @@
-
+# if문
 x = int(input("Please enter an integer: "))
 
 if x < 0:

@@ -2,6 +2,7 @@
 
 Textbook
 - Required Textbook
-  - Jump to Python
+  - [Jump to Python](https://wikidocs.net/images//book/j2p_title_new2_S1JyeeE.jpg)
+
 - Auxiliary Textbook
-  - This is the official documentation for Python 3.10.3
+  - [official documentation for Python 3.10.4.](https://docs.python.org/ko/3/)
